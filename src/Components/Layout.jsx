@@ -43,12 +43,12 @@ export const Layout = () => {
             <div className="grid-box"></div>
             <div className="grid-box"></div>
           </div>
-          {/* <div className="froggy">
+          <div className="froggy">
             <div className="froggy-box"></div>
             <div className="froggy-box"></div>
             <div className="froggy-box"></div>
             <div className="froggy-box"></div>
-          </div> */}
+          </div>
         </div>
       </div>
     </div>
